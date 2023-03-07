@@ -1,3 +1,13 @@
+
+## Sobre a aplicação
+Aplicação completa para pizzaria desenvolvida em 3 camadas, durante o curso [Projeto Completo NodeJS, React, React Native, TypeScript](https://www.udemy.com/course/dev-fullstack/), do prof. Matheus Fraga.<br />
+
+* Front-end
+  * __React__ com __Next__ e Typescript
+  * __Nookies__ para armazenar cookies
+  * __SASS__ para estilização
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
