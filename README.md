@@ -6,6 +6,11 @@ Aplicação completa para pizzaria desenvolvida em 3 camadas, durante o curso [P
   * __React__ com __Next__ e Typescript
   * __Nookies__ para armazenar cookies
   * __SASS__ para estilização
+  
+
+  ## :camera_flash: Screenshots
+![](https://github.com/MARINARR92/PizzariaFrontEnd/blob/main/public/pizzaria.gif)
+
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
